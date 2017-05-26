@@ -1,4 +1,4 @@
-## LilYpond:
+# LilyPond
 
 Lilypond example for drum.
 
